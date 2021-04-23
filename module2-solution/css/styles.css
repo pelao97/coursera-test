@@ -24,7 +24,10 @@ h1 {
 
 h2 {
     font-size: 180%;
-    text-align: center;
+    text-align: right;
+    background-color: sandybrown;
+    float: right;
+    clear: right;
 }
 
 p {
